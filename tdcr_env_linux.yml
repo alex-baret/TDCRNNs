@@ -1,0 +1,17 @@
+name: tdcr
+channels:
+- defaults
+- pytorch
+- conda-forge
+- sepandhaghighi
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python=3.6
+- pytorch-cpu
+- pyyaml
+- scikit-learn
+- scipy
+- pycm
